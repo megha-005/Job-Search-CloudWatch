@@ -5,12 +5,12 @@
 * MindInventory
 * Velotio
 * AppDirect
-
 * Capco
 * SplendorNet Technologies
 * Foto Owl AI
 * Deqode
 * Prometteur Solutions
+* TRIARQ Health (Healthtech SaaS)
 
 ### Bangalore
 
@@ -22,6 +22,9 @@
 * Razorpay (also in Fintech)
 * Zolve
 * Slice
+* Zenkins (SaaS)
+* Facets.Cloud (DevOps/product)
+* Practo (Healthtech product)
 
 ***Fintech & Banking***
 
@@ -33,6 +36,10 @@
 * Easebuzz
 * MobiKwik (Tech)
 * Rapidera Technologies
+* Paytm (local tech teams)
+* Capco (Digital banking solutions)
+* PhonePe (Pune/Bangalore Tech Center)
+* Paysharp
 
 ### Bangalore
 
@@ -41,6 +48,8 @@
 * OneFin
 * Slice
 * M2P Fintech
+* JusPay
+* Razorpay
 
  ***eCommerce & Marketplace***
  
